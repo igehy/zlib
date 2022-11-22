@@ -1,6 +1,4 @@
-# zlib
 need for crosstool-ng
-README
 
 ZLIB DATA COMPRESSION LIBRARY
 
