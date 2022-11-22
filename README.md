@@ -1,4 +1,5 @@
-need for crosstool-ng
+ZLIB
+(need for crosstool-ng)
 
 ZLIB DATA COMPRESSION LIBRARY
 
